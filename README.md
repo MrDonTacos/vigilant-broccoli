@@ -1,6 +1,6 @@
 # vigilant-broccoli
 
-Esta es una modificacion en readme
+Este es el repositorio inicial de práctica para el curso de desarrollo de aplicaciones móviles con kotlin.
 
 
 Nueva linea de texto
